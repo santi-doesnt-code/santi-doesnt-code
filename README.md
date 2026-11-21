@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Santiago! 
+But you can call me Santi :)
 
-<!--
-**santi-doesnt-code/santi-doesnt-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Systems Engineering student and I like mathematics, physics and programming. 
+I'm currently focused on improving my coding skills, gaining experience and exploring new technologies. I haven't built any projects yet, but I'm working towards changing that!
 
-Here are some ideas to get you started:
+## Languages:
+   - Pascal.
+   - Python.
+  And I'm learning Java and C#.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm working on:
+   - Exploring game dev.
+   - Practicing problem-solving and logical thinking.
+   - Building my first project.
+
+## Beyond coding:
+  When I'm not studying or coding, I enjoy playing the guitar, hanging out with friends, reading and watching movies. 
+
+## Connect with me:
+ - Email: santiagolauman@icloud.com 
+
