@@ -7,7 +7,7 @@ I'm currently focused on improving my coding skills, gaining experience and expl
 ## Languages:
    - Pascal.
    - Python.
-  And I'm learning Java and C#.
+And I'm learning Java and C#.
 
 ## I'm working on:
    - Exploring game dev.
